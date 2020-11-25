@@ -1,0 +1,236 @@
+{
+  "movies":
+  {
+    "HORROR": {
+      "2018": [
+        {
+          "Title": "Halloween",
+          "Year": "2018",
+          "imdbID": "tt1502407",
+          "Type": "movie",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMmMzNjJhYjUtNzFkZi00MWQ4LWJiMDEtYWM0NTAzNGZjMTI3XkEyXkFqcGdeQXVyOTE2OTMwNDk@._V1_SX300.jpg",
+          "Content": "https://www.imdb.com/title/tt1502407/"
+        },
+        {
+          "Title": "In Fabric",
+          "Year": "2018",
+          "imdbID": "tt7464188",
+          "Type": "movie",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMmY5YzZjMjQtMjc2NS00ZDU2LTk4MTgtZDgwZmRmM2VlZTVmXkEyXkFqcGdeQXVyMTAzNjk5MDI4._V1_SX300.jpg",
+          "Content": "https://www.imdb.com/title/tt7464188/"
+        },
+        {
+          "Title": "The Meg",
+          "Year": "2018",
+          "imdbID": "tt4779682",
+          "Type": "movie",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMTAxMGRmODYtM2NkYS00ZGRlLWE1MWItYjI1MzIwNjQwN2RiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+        ,"Content": "https://www.imdb.com/title/tt4779682/"
+        },
+        {
+          "Title": "The Nun",
+          "Year": "2018",
+          "imdbID": "tt5814060",
+          "Type": "movie",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMjM3NzQ5NDcxOF5BMl5BanBnXkFtZTgwNzM4MTQ5NTM@._V1_SX300.jpg"
+        ,"Content": "https://www.imdb.com/title/tt5814060/"
+        }
+      ],
+      "2019": [
+        {
+          "Title": "Black Christmas",
+          "Year": "2019",
+          "imdbID": "tt10481868",
+          "Type": "movie",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMzczYzk4NWUtY2I0NC00OWEzLTgxYzAtOGM3NGU1ZjZlOGQxXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg"
+        ,"Content": "https://www.imdb.com/title/tt10481868/"
+        },
+        {
+          "Title": "Crawl",
+          "Year": "2019",
+          "imdbID": "tt8364368",
+          "Type": "movie",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BNTk4MTliYzgtOGI2Ni00N2I5LTg4MjktZTkzZTE0MWVjNGEyXkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_SX300.jpg"
+        ,"Content": "https://www.imdb.com/title/tt8364368/"
+        },
+        {
+          "Title": "Doctor Sleep",
+          "Year": "2019",
+          "imdbID": "tt5606664",
+          "Type": "movie",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BYmY3NGJlYTItYmQ4OS00ZTEwLWIzODItMjMzNWU2MDE0NjZhXkEyXkFqcGdeQXVyMzQzMDA3MTI@._V1_SX300.jpg"
+        ,"Content": "https://www.imdb.com/title/tt5606664/"
+        },
+        {
+          "Title": "Eli",
+          "Year": "2019",
+          "imdbID": "tt5294518",
+          "Type": "movie",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BYWQwYjNiM2ItMTcyZS00ZTNmLTgwNzQtMTgwNzU5ODgxMTc3XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg"
+          ,"Content": "https://www.imdb.com/title/tt5294518/"
+       }
+      ]
+    },
+
+    "THRILLER": {
+      "2018": [
+        {
+          "Title":"The Commuter","Year":"2018","imdbID":"tt1590193","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BMTc0NDg1MjI4OV5BMl5BanBnXkFtZTgwMDIwMTEwNDI@._V1_SX300.jpg"
+        ,"Content": "https://www.imdb.com/title/tt1590193"
+        },
+        {
+          "Title":"The Tale","Year":"2018","imdbID":"tt4015500","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BMmU3NzY3MmItYjhmMS00ZmNkLTkwY2EtMTkyMjhlNThiMzQ5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+        ,"Content": "https://www.imdb.com/title/tt4015500"
+        },
+        {
+          "Title":"Winchester","Year":"2018","imdbID":"tt1072748","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BMjI2OWE5OGItMTE4Yi00ZmIzLThjZDctNTU1OTMxMTc3Yjg4XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg"
+        ,"Content": "https://www.imdb.com/title/tt1072748"
+        },
+        {
+          "Title":"Red Sparrow","Year":"2018","imdbID":"tt2873282","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BMTA3MDkxOTc4NDdeQTJeQWpwZ15BbWU4MDAxNzgyNTQz._V1_SX300.jpg"
+        ,"Content": "https://www.imdb.com/title/tt2873282"
+        }
+      ],
+      "2019": [
+        {
+          "Title":"Close","Year":"2019","imdbID":"tt5316540","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BYzI5OTUzZjktMDE4Zi00YjE3LWIzNWQtNDFjZWQyMDVkY2I1XkEyXkFqcGdeQXVyMTg1MzYyMzQ@._V1_SX300.jpg"
+        ,"Content": "https://www.imdb.com/title/tt5316540"
+        },
+        {
+          "Title":"Glass","Year":"2019","imdbID":"tt6823368","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BMTY1OTA2MjI5OV5BMl5BanBnXkFtZTgwNzkxMjU4NjM@._V1_SX300.jpg"
+        ,"Content": "https://www.imdb.com/title/tt6823368"
+        },
+        {
+          "Title":"Polar","Year":"2019","imdbID":"tt4139588","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BMzA5MjNjODEtOWYxYi00OTdmLTlhNTAtN2VhMTMxNWJjM2ZmXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SX300.jpg"
+        ,"Content": "https://www.imdb.com/title/tt4139588"
+        },
+        {
+          "Title":"Vivarium","Year":"2019","imdbID":"tt8368406","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BYmEyZGQyMmItZTdjMC00YmZhLTk4YjUtNzkzZDc2NDYyMGMxXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SX300.jpg"
+        ,"Content": "https://www.imdb.com/title/tt8368406"
+        }
+      ]
+    },
+
+    "SCI-FI": {
+    "2018": [
+      {
+        "Title":"Annihilation","Year":"2018","imdbID":"tt2798920","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BMTk2Mjc2NzYxNl5BMl5BanBnXkFtZTgwMTA2OTA1NDM@._V1_SX300.jpg",
+        "Content": "https://www.imdb.com/title/tt2798920"
+      },
+      {
+        "Title":"Anon","Year":"2018","imdbID":"tt5397194","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BMjE0MjIwMDE2MV5BMl5BanBnXkFtZTgwMzM5MDQzNTM@._V1_SX300.jpg",
+        "Content": "https://www.imdb.com/title/tt5397194"
+      },
+      {
+        "Title":"The Darkest Minds","Year":"2018","imdbID":"tt4073790","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BMTUxOGE3OTUtM2I2My00YzE3LTg2NDktZTI3NjE4NDdjMGFiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+        "Content": "https://www.imdb.com/title/tt4073790"
+      },
+      {
+        "Title":"Fahrenheit 451","Year":"1966","imdbID":"tt0060390","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BZDkwYWY3YWQtNWJiZC00Mzk1LTg0YTgtZWZmZDk2MzQzODRjXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_SX300.jpg",
+        "Content": "https://www.imdb.com/title/tt0060390"
+      }
+
+    ],
+    "2019": [
+      {
+        "Title":"The Platform","Year":"2019","imdbID":"tt8228288","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BOTMyYTIyM2MtNjQ2ZC00MWFkLThhYjQtMjhjMGZiMjgwYjM2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+        "Content": "https://www.imdb.com/title/tt8228288"
+      },
+      {
+        "Title":"3022","Year":"2019","imdbID":"tt9465600","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BNWNhMDdiYzktMjQzNy00NGYwLWIwMTQtMmFiNzZkZGRjOTI3XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SX300.jpg",
+        "Content": "https://www.imdb.com/title/tt9465600"
+      },
+      {
+        "Title":"Ad Astra","Year":"2019","imdbID":"tt2935510","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BZTllZTdlOGEtZTBmMi00MGQ5LWFjN2MtOGEyZTliNGY1MzFiXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+        "Content": "https://www.imdb.com/title/tt2935510"
+      },
+      {
+        "Title":"I Am Mother","Year":"2019","imdbID":"tt6292852","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BMTkxMTczNTA4Nl5BMl5BanBnXkFtZTgwNDAyMzgwODM@._V1_SX300.jpg",
+        "Content": "https://www.imdb.com/title/tt6292852"
+      }
+    ]
+  },
+
+    "CRIME": {
+      "2018": [
+        {
+          "Title":"Widows","Year":"2018","imdbID":"tt4218572","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BMjM3ODc5NDEyOF5BMl5BanBnXkFtZTgwMTI4MDcxNjM@._V1_SX300.jpg",
+          "Content": "https://www.imdb.com/title/tt4218572"
+        },
+        {
+          "Title":"Red Joan","Year":"2018","imdbID":"tt7615302","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BOTBhMDZjZmQtNmJjYS00OWI0LTkxM2ItN2ExZTc3NzkxZmJlXkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SX300.jpg",
+          "Content": "https://www.imdb.com/title/tt7615302"
+        },
+        {
+          "Title":"Everybody Knows","Year":"2018","imdbID":"tt4964788","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BMDFkN2QzZGEtMzA2Yi00MzJlLWI4ZmUtMGMxOWZkOGEwYTY5XkEyXkFqcGdeQXVyNjkxOTM4ODY@._V1_SX300.jpg",
+          "Content": "https://www.imdb.com/title/tt4964788"
+        },
+        {
+          "Title":"Shoplifters","Year":"2018","imdbID":"tt8075192","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BYWZmOTY0MDAtMGRlMS00YjFlLWFkZTUtYmJhYWNlN2JjMmZkXkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_SX300.jpg",
+          "Content": "https://www.imdb.com/title/tt8075192"
+        }
+
+      ],
+      "2019": [
+        {
+          "Title":"The Irishman","Year":"2019","imdbID":"tt1302006","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BMGUyM2ZiZmUtMWY0OC00NTQ4LThkOGUtNjY2NjkzMDJiMWMwXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SX300.jpg",
+          "Content": "https://www.imdb.com/title/tt1302006"
+        },
+        {
+          "Title":"Joker","Year":"2019","imdbID":"tt7286456","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+          "Content": "https://www.imdb.com/title/tt7286456"
+        },
+        {
+          "Title":"The Kitchen","Year":"2019","imdbID":"tt5822564","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BZGEwMWJlNzMtMjQ4YS00YjI4LTkwZTYtMGFiZTY5YmE2ZTIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+          "Content": "https://www.imdb.com/title/tt5822564"
+        },
+        {
+          "Title":"21 Bridges","Year":"2019","imdbID":"tt8688634","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BYTg4YzEzNDQtZDAxOS00M2YyLTljZWEtNjk4YTc4NDM2NTBhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+          "Content": "https://www.imdb.com/title/tt8688634"
+        }
+      ]
+
+    },
+
+    "DRAMA": {
+      "2018": [
+        {
+          "Title":"Burning","Year":"2018","imdbID":"tt7282468","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BMWNmYjI1M2UtNDdkNi00MTgwLWFiZmYtODcxNWZhM2Y2NWFkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+          "Content": "https://www.imdb.com/title/tt7282468"
+        },
+        {
+          "Title":"Bohemian Rhapsody","Year":"2018","imdbID":"tt1727824","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_SX300.jpg",
+          "Content": "https://www.imdb.com/title/tt1727824"
+        },
+        {
+          "Title":"Adrift","Year":"2018","imdbID":"tt6306064","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BMTkxMTI2MjE4OF5BMl5BanBnXkFtZTgwMjIyODQzNTM@._V1_SX300.jpg",
+          "Content": "https://www.imdb.com/title/tt6306064"
+        },
+        {
+          "Title":"Fifty Shades Freed","Year":"2018","imdbID":"tt4477536","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BMTYxOTQ1MzI0Nl5BMl5BanBnXkFtZTgwMzgwMzIxNDM@._V1_SX300.jpg",
+          "Content": "https://www.imdb.com/title/tt4477536"
+        }
+
+      ],
+      "2019": [
+        {
+          "Title":"The Aftermath","Year":"2019","imdbID":"tt5977276","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BMTk2MDEyNTE5M15BMl5BanBnXkFtZTgwMzY1NDM4NjM@._V1_SX300.jpg",
+          "Content": "https://www.imdb.com/title/tt5977276"
+        },
+        {
+          "Title":"The Aftermath","Year":"2019","imdbID":"tt5977276","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BMTk2MDEyNTE5M15BMl5BanBnXkFtZTgwMzY1NDM4NjM@._V1_SX300.jpg",
+          "Content": "https://www.imdb.com/title/tt5977276"
+        },
+        {
+          "Title":"Bombshell","Year":"2019","imdbID":"tt6394270","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BZjlhOWE3YjktY2MzOC00ZmQ1LWIwNjgtZmVhZmFjZGExMzgyXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg",
+          "Content": "https://www.imdb.com/title/tt6476140"
+        },
+        {
+          "Title":"Serenity","Year":"2019","imdbID":"tt6476140","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BY2VjNGFkZmUtMTI1MS00YmRiLTg1MmUtYzI0ODM1OWRkMjIyXkEyXkFqcGdeQXVyOTIxNTAyMzU@._V1_SX300.jpg",
+          "Content": "https://www.imdb.com/title/tt6476140"
+        }
+      ]
+
+    }
+  }
+}
